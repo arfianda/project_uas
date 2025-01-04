@@ -1,0 +1,22 @@
+[
+    {
+        "city": "Bandung",
+        "condition": "hujan"
+    },
+    {
+        "city": "Bekasi",
+        "condition": "cerah"
+    },
+    {
+        "city": "Padang",
+        "condition": "mendung"
+    },
+    {
+        "city": "Georgopol",
+        "condition": "cerah"
+    },
+    {
+        "city": "San andreas",
+        "condition": "mendung"
+    }
+]
