@@ -23,3 +23,36 @@ WeatherApp/
 ├── main.py             # File utama untuk menjalankan program
 ├── requirements.txt    # Dependensi library yang digunakan
 ```
+
+## Fitur Utama
+
+1. Tambah Data Ramalan Cuaca: Input nama kota dan kondisi cuaca (cerah, hujan, mendung).
+
+2. Tampilkan Data: Menampilkan data ramalan cuaca dalam bentuk tabel menggunakan library `tabulate`.
+
+3. Simpan Data: Data otomatis disimpan ke file `JSON` saat program keluar.
+
+4. Muat Data: Data otomatis dimuat dari file `JSON` saat program dijalankan kembali.
+
+
+## Cara Menjalankan Program
+
+1. Clone repository ini ke komputer Anda.
+
+2. Pastikan Python sudah terinstal.
+3. Install library yang dibutuhkan:
+```bash
+pip install -r requirements.txt
+```
+4. Jalankan program dengan perintah:
+```bash
+python main.py
+```
+5. Ikuti instruksi yang muncul di layar untuk menggunakan program.
+
+## Link Video Penjelasan
+
+
+
+
+
